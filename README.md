@@ -11,8 +11,8 @@
 
 
 ### 🛠 Tools
-![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) Git
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
+![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) 
+![icons8-chatgpt-64](https://github.com/user-attachments/assets/12db9574-550d-47a0-9099-24b45899495c)
 
 
 ### 🖹 Markup Language
