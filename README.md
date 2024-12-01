@@ -11,8 +11,9 @@
 
 
 ### 🛠 Tools
-![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) 
-![icons8-chatgpt-64](https://github.com/user-attachments/assets/12db9574-550d-47a0-9099-24b45899495c)
+![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) Git
+![icons8-github-64](https://github.com/user-attachments/assets/0705ff8b-6942-424f-90ea-eb7618730600) Github
+![icons8-chatgpt-64](https://github.com/user-attachments/assets/12db9574-550d-47a0-9099-24b45899495c) Chatgpt
 
 
 ### 🖹 Markup Language
