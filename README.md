@@ -17,10 +17,11 @@
 
 
 ### 🖹 Markup Language
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![img icons8](https://github.com/user-attachments/assets/9171b18d-29c0-4344-8558-975c970a84fd) HTML5
+
 
 ### 🎨 Styling
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![img icons8](https://github.com/user-attachments/assets/05e71227-e65a-4456-b7d9-c37b7a449584) CSS3
 
 
 
