@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Abdelrahman ELsokary
 - 🌱 I’m currently learning at Tanta Academy for Computer Science, Technology and Artificial Intelligence!
   
-[![LinkedIn](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)](#)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 <!---
 AbdelrahmanELsokary/AbdelrahmanELsokary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
