@@ -11,8 +11,7 @@
 
 
 ### 🛠 Tools
-
-- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/git.svg" alt="Git" width="30" height="30"> Git
+![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) Git
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
 
 
