@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Abdelrahman ELsokary
+
 - 🌱 I’m currently learning at Tanta Academy for Computer Science, Technology and Artificial Intelligence!
   
 # 👋 Hi, I'm Abdelrahman Elsokary
+
 
 
 ## 🤝 Connect with me
