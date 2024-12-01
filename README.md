@@ -25,11 +25,10 @@
 
 ## 📜 Certifications
 
-### Web Development Certificate
-![Web Development Certificate](https://raw.githubusercontent.com/username/repository-name/branch-name/certifications/web-dev-cert.jpg)
 
-### Python for Data Science
-![Python Certificate](https://raw.githubusercontent.com/username/repository-name/branch-name/certifications/python-cert.jpg)
+(https://github.com/AbdelrahmanELsokary/AbdelrahmanELsokary/blob/main/photo_2024-10-28_21-43-12.jpg)
+
+
 
 <!---
 AbdelrahmanELsokary/AbdelrahmanELsokary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
