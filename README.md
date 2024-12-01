@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrahman Elsokary
 
-About Me
+## 🎓 **Education:**  
 - 🌱 I’m currently learning at Tanta Academy for Computer Science, Technology and Artificial Intelligence!
 
 ## 🤝 Connect with me
