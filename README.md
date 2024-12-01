@@ -23,10 +23,6 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-## 📜 Certifications
-
-
-(https://github.com/AbdelrahmanELsokary/AbdelrahmanELsokary/blob/main/photo_2024-10-28_21-43-12.jpg)
 
 
 
