@@ -22,6 +22,15 @@
 ### 🎨 Styling
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+
+## 📜 Certifications
+
+### Web Development Certificate
+![Web Development Certificate](https://raw.githubusercontent.com/username/repository-name/branch-name/certifications/web-dev-cert.jpg)
+
+### Python for Data Science
+![Python Certificate](https://raw.githubusercontent.com/username/repository-name/branch-name/certifications/python-cert.jpg)
+
 <!---
 AbdelrahmanELsokary/AbdelrahmanELsokary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
