@@ -26,14 +26,15 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=radical&no-frame=true&no-bg=true&margin-w=20&margin-h=20)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=tokyonightl&no-frame=true&no-bg=true&margin-w=20&margin-h=20)
 
 
 ## 📜 Certificates
 
                                                                    💻Skills Certificates
                                                                    
-![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true&margin+10) ![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capture.PNG)
+![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true) 
+![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capture.PNG)
 
 
 
