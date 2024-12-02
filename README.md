@@ -33,11 +33,12 @@
 
                                                                    💻Skills Certificates
                                                                    
-![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true)
-![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capture.PNG)
+![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true&margin+10) ![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capture.PNG)
+
 
 
 🤖Robotics Certificates
+
                                                                         👨‍🏫Trainer
 
 ![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capure.PNG?raw=true)
