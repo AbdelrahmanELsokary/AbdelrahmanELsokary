@@ -30,15 +30,11 @@
 
 
 ## 📜 Certificates
-https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG
-                              
-                                                               
-                              
-                                                                    💻Skills Certificates
-![Captur1]([https://github.com/user-attachments/assets/ccf9965c-3024-4e44-ba4a-09a51e2c976d](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG))
-[Captur]([https://github.com/user-attachments/assets/cb33a765-9a50-407b-876e-884ed0ec58b1](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true))
 
+                                                                   💻Skills Certificates
+                                                                   
 ![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Captur.PNG?raw=true)
+![certificate_name](https://github.com/AbdelrahmanELsokary/images/blob/main/Capture.PNG)
 
 <!---
 
