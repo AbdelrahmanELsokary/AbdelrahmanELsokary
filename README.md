@@ -26,7 +26,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=tokyonightl&no-frame=true&no-bg=true&margin-w=20&margin-h=20)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=monokai&no-frame=true&no-bg=true&margin-w=20&margin-h=20)
 
 
 ## 📜 Certificates
