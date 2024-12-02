@@ -22,8 +22,7 @@
 
 
 ### 🎨 Styling
-![img icons8](https://github.com/user-attachments/assets/b087841f-9775-4d29-bd84-a33333374983)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=radical&no-bg=true)
 
 
 ## 🏆 GitHub Trophies
