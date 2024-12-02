@@ -22,12 +22,11 @@
 
 
 ### 🎨 Styling
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=radical&no-bg=true)
+![img icons8](https://github.com/user-attachments/assets/26cda86b-4d8d-466c-aeb5-09a3bbbf8f61)
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ِِAbdelrahmanelsokary&theme=radical&no-bg=true)
-
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=radical&no-bg=trueno-frame=true)
 
 <!---
 AbdelrahmanELsokary/AbdelrahmanELsokary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
