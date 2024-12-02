@@ -1,4 +1,4 @@
-![Capure](https://github.com/user-attachments/assets/c2646c6f-4c4a-4544-a63b-881eced2bc83)![Captur](https://github.com/user-attachments/assets/30493cbd-5169-4ae3-a040-16a99b7b76e4)# 👋 Hi, I'm Abdelrahman Elsokary
+# 👋 Hi, I'm Abdelrahman Elsokary
 
 ## 🎓 **Education:**  
 - 🌱 I’m currently learning at Tanta Academy for Computer Science, Technology and Artificial Intelligence!
@@ -32,12 +32,13 @@
 ## 📜 Certificates
 
                               
-                   |---------------------------------------------------/-------------------------------------\----------------------------------------------------------------|
-                                                                                  Skills Certificates
+  |------------------------------------------------------/-------------------------------------\---------------------------------------------------------------|
+                                                               
+  ![img icons8](https://github.com/user-attachments/assets/6f9d102e-56df-4a86-bd36-c5d0f9074037) Skills Certificates
+  
                    
 [Captur](https://github.com/user-attachments/assets/cb33a765-9a50-407b-876e-884ed0ec58b1)
-[Link](https://aws.amazon.com/certification/certified-solutions-architect-associate/) 
-[Link](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) 
+![Capture](https://github.com/user-attachments/assets/d39cc4c2-3c4e-46f7-8dad-26840a61bb74)
 
 
 <!---
