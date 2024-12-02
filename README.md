@@ -27,7 +27,7 @@
 
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=tokyonight&-no-frame=false&no-bg=false&margin-w=4&no-bg=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ِِAbdelrahmanelsokary&theme=radical&no-bg=true)
 
 
 <!---
