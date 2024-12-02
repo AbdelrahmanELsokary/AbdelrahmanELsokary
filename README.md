@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning at Tanta Academy for Computer Science, Technology and Artificial Intelligence!
 
 ## 🤝 Connect with me
-[![img icons8](https://github.com/user-attachments/assets/2870e49a-ac24-47d9-b68a-34eec25a7d4b)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
+[![img icons8](https://github.com/user-attachments/assets/2870e49a-ac24-47d9-b68a-34eec25a7d4b)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/) [![img icons8](https://github.com/user-attachments/assets/59690964-571d-4b83-a555-f54da3f59bd5)](mailto:abdalrahmanelsokarey@gmail.com.)
 
-[![img icons8](https://github.com/user-attachments/assets/59690964-571d-4b83-a555-f54da3f59bd5)](mailto:abdalrahmanelsokarey@gmail.com.)
+
 
 ## 🧰 Tech Stack
 
