@@ -34,8 +34,8 @@
                               
   |------------------------------------------------------/-------------------------------------\---------------------------------------------------------------|
                                                                
-  ![img icons8](https://github.com/user-attachments/assets/6f9d102e-56df-4a86-bd36-c5d0f9074037) Skills Certificates
-  
+                               ![img icons8](https://github.com/user-attachments/assets/6f9d102e-56df-4a86-bd36-c5d0f9074037) 
+                                                                  Skills Certificates
                    
 [Captur](https://github.com/user-attachments/assets/cb33a765-9a50-407b-876e-884ed0ec58b1)
 ![Capture](https://github.com/user-attachments/assets/d39cc4c2-3c4e-46f7-8dad-26840a61bb74)
