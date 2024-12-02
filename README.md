@@ -10,18 +10,22 @@
 ## 🧰 Tech Stack
 
 
-### 🛠 Tools
+### Tools
+![img icons8](https://github.com/user-attachments/assets/c4997d7e-75ac-4f07-8d1a-a9f486923fc4)
+
 ![icons8-git-64](https://github.com/user-attachments/assets/9dd8eb9e-3031-49eb-a211-ad61aa5bb99a) Git
 ![icons8-github-64](https://github.com/user-attachments/assets/0705ff8b-6942-424f-90ea-eb7618730600) Github
 ![icons8-chatgpt-64](https://github.com/user-attachments/assets/12db9574-550d-47a0-9099-24b45899495c) Chatgpt
 
 
 ### 🖹 Markup Language
-![img icons8](https://github.com/user-attachments/assets/9171b18d-29c0-4344-8558-975c970a84fd) HTML5
+HTML5
+![img icons8](https://github.com/user-attachments/assets/9171b18d-29c0-4344-8558-975c970a84fd) 
 
 
 ### 🎨 Styling
-![img icons8](https://github.com/user-attachments/assets/05e71227-e65a-4456-b7d9-c37b7a449584) CSS3
+CSS
+![img icons8](https://github.com/user-attachments/assets/19475c55-6796-4a5a-90ac-60810e7456bd)
 
 
 
