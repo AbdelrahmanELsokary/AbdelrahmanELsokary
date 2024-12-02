@@ -28,9 +28,8 @@
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdelrahmanElsokary&theme=radical&no-frame=true&no-bg=true&margin-w=20&margin-h=20)
 
+![icons8-git-64](https://github.com/user-attachments/assets/98648faf-e789-47a3-98b1-5e76c5998e3e)
 
-![Top Languages](https://img.shields.io/github/languages/count/AbdelrahmanElsokary/AbdelrahmanELsokary?color=brightgreen&style=flat-square)
-![Top Languages by Commit](https://img.shields.io/github/languages/code-size/AbdelrahmanElsokary/AbdelrahmanELsokary)
 <!---
 
 AbdelrahmanELsokary/AbdelrahmanELsokary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
