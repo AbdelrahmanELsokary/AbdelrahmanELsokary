@@ -21,7 +21,7 @@
 
 ![img icons8](https://github.com/user-attachments/assets/2f14c8dd-c5bd-4f95-b29e-323143627cc5)
 
-🎨 Styling
+## 🎨 Styling
 
 
 ![img icons8](https://github.com/user-attachments/assets/36375fd0-600c-4704-ae23-053643accff0)
