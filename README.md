@@ -45,13 +45,21 @@
 **Coach**
 
 
+
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG)
 
+
 **Mentor**
+
+
+
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/fll.jpg)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/fll.jpg)
 
 
+
 **Volunteering**
+
+
 
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/roborave.jpg?raw=true)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/roborave.jpg?raw=true)
 
@@ -59,6 +67,8 @@
 
 
 **Skills**
+
+
 
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)
