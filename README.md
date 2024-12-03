@@ -38,6 +38,10 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdelrahmanELsokary&theme=dracula&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=dark)
+
 ## 🎓 Certifications
 
 
@@ -76,6 +80,4 @@
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)
 
-## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=radical)
