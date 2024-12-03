@@ -26,7 +26,8 @@
 
 ## 📫 Contact Me
 <a href="mailtoabdalrahmanelsokary@gmail.com"><img src="https://github.com/user-attachments/assets/9bf2b587-014b-4290-a370-7b9a01cd148d" alt="Email"></a>
-<a href="https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/"><img src="https://icons8.com/icon/GIpl4LX6E2xe/linkedin" alt="Email"></a>
+[![LinkedIn](https://via.placeholder.com/40/0077B5?text=L)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
+
 
 
 ## 🏆 GitHub Trophies
