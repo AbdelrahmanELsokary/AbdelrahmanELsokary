@@ -40,7 +40,7 @@
 
 ## 📊 Stats
 
-![Commits](https://github-readme-stats.vercel.app/api?username=AbdelrahmanELsokary&show_icons=true&count_private=true&hide=issues&hide_title=true)
+![Commits](https://github-readme-stats.vercel.app/api?username=AbdelrahmanELsokary&show_icons=true&count_private=true&hide=issues&hide_title=true&theme=dark)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=dark)
