@@ -14,7 +14,6 @@
 
 
 ## 🌐 Markup Languages
-![img icons8]()
 
 
 ![img icons8](https://github.com/user-attachments/assets/2f14c8dd-c5bd-4f95-b29e-323143627cc5)
@@ -27,7 +26,8 @@
 
 ## 📫 Contact Me
 <a href="mailtoabdalrahmanelsokary@gmail.com"><img src="https://github.com/user-attachments/assets/9bf2b587-014b-4290-a370-7b9a01cd148d" alt="Email"></a>
-<a href="https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/"><img src="https://github.com/user-attachments/assets/9bf2b587-014b-4290-a370-7b9a01cd148d" alt="Email"></a>
+<a href="https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/"><img src="![img icons8](https://github.com/user-attachments/assets/84eedc2b-6457-47a3-907f-40af6f0eb49c)
+" alt="Email"></a>
 
 
 ## 🏆 GitHub Trophies
