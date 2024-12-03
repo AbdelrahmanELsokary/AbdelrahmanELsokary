@@ -38,9 +38,11 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=AbdelrahmanELsokary&theme=dracula&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-## 📊 Most Used Languages
+## 📊 Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6&exclude_repo=example-repo)
 
 ## 🎓 Certifications
 
