@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdelrahman Elsokary
 
 
-🌐 **Connect with Me:** 
+## 🏆 GitHub Trophies
 
-![img icons8](https://github.com/user-attachments/assets/3407b5fe-5d53-4452-8210-1019dae5a1a1)[a]
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbdelrahmanELsokary&theme=dracula&no-bg=true&no-frame=true&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
