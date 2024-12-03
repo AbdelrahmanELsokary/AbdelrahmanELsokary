@@ -26,7 +26,7 @@
 
 ## 📫 Contact Me
 <a href="mailtoabdalrahmanelsokary@gmail.com"><img src="https://github.com/user-attachments/assets/9bf2b587-014b-4290-a370-7b9a01cd148d" alt="Email"></a>
-[![LinkedIn](https://via.placeholder.com/40/0077B5?text=L)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
+[![LinkedIn](https://img.icons8.com/?size=16&id=tvG-nQ3s2hZL&format=png)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
 
 
 
