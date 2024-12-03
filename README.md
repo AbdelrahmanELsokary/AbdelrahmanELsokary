@@ -37,4 +37,4 @@
 
 ## 🎓 Certifications
 
-- [Certification Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG) 
+[![](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG)]
