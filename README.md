@@ -40,9 +40,13 @@
 
 ## 📊 Stats
 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=radical&langs_count=6&exclude_repo=example-repo)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=6&exclude_repo=example-repo)
+
 
 ## 🎓 Certifications
 
