@@ -54,5 +54,5 @@
 
 
 **Skills**
-[!](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)]
+[](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)]
 [!](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)]
