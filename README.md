@@ -76,3 +76,6 @@
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)
 [![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)
 
+## 📊 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ِِAbdelrahmanELsokary&layout=compact&theme=dark)
