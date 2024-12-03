@@ -78,4 +78,4 @@
 
 ## 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ِِAbdelrahmanELsokary&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanELsokary&layout=compact&theme=radical)
