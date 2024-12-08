@@ -58,7 +58,7 @@
 ## 💼 Work and Jobs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
-## 🔧 **Technical Skills:**
+
 
 
 ## 🏆 GitHub Trophies
