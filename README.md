@@ -76,6 +76,8 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElsokary&theme=dark&show_icons=true&hide_border=true)
 
 
+##Certificates
+<a href="https://github.com/AbdelrahmanElsokary/Certificates" target="_blank"> </a>
 
 
 # Thank You for visiting my Readme!
