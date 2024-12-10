@@ -78,46 +78,5 @@
 
 
 
-## 🎓 Certifications
-
-
-**🤖Robotics**
-
-
-
-**Coach**
-
-
-
-[![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/robotex.PNG)
-
-![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-**Mentor**
-
-
-
-[![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/fll.jpg)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/fll.jpg)
-
-
-![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-**Volunteering**
-
-
-
-[![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/roborave.jpg?raw=true)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Robotics/roborave.jpg?raw=true)
-
-
-![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-
-**Skills**
-
-
-
-[![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/inovvegypt.PNG)
-[![Certificate Name 1](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)](https://github.com/AbdelrahmanELsokary/Certifications/blob/main/Skills/markting.PNG)
-
 # Thank You for visiting my Readme!
 ![68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d3130302673656374696f6e3d666f6f746572 (1)](https://github.com/user-attachments/assets/e599b0c5-b812-4e11-908a-2bdec8c97c5f)
