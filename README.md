@@ -78,7 +78,7 @@
 
 ##Certificates
 
-<a href="https://github.com/AbdelrahmanElsokary/Certificates" target="_blank">**My certifications**</a>
+<a href="https://github.com/AbdelrahmanELsokary/Certifications">**My certifications**</a>
 
 
 # Thank You for visiting my Readme!
