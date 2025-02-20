@@ -17,22 +17,22 @@
 ## 🧳 Tech Stack
 
 - ### Markup Language
-
-  ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)
+![html](https://iconscout.com/free-icon/html-58)
 
 - ### 🎨 Styling
-
-  ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+![css](https://iconscout.com/free-icon/css-124)
 
   ### 🧠 Programming Language
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![javascript](https://github.com/user-attachments/assets/6d7c8b42-49cf-4815-831e-1429ef72adab)
+  ![typescript](https://github.com/user-attachments/assets/579bb659-89de-4f8c-b3ca-32f09647e426)
+
   - ### 🖼️ Frameworks
 
   - #### CSS
     ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
     
   - #### JavaScript
-    ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![react](https://github.com/user-attachments/assets/cd302295-2583-4f61-a0a0-427189937d09)
 
 
 - ### 🛠️ Tools
@@ -43,12 +43,12 @@
 
   - #### 🔖 Version Control System
 
-    ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
-    ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
+    ![Git](https://iconscout.com/free-icon/social-145)
+    ![GitHub](https://iconscout.com/free-icon/github-163)
 
   - #### 📦 Package Managers
+![npm](https://github.com/user-attachments/assets/d70e6d23-91bc-441e-801b-7ae92b7de502)
 
-    ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
   - #### 🎨 Design
 
