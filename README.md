@@ -17,23 +17,24 @@
 ## 🧳 Tech Stack
 
 - ### Markup Language
-![html-5](https://github.com/user-attachments/assets/6b9dce13-91e5-4288-a966-d415ad5c8991)
+![html](https://github.com/user-attachments/assets/318cebdf-a4a5-47b0-bcc9-e02082f88a91)
 
 - ### 🎨 Styling
-![css](https://iconscout.com/free-icon/css-124)
-![html-5 (1)](https://github.com/user-attachments/assets/ca811b23-a8f1-4ecc-9db4-47017fba11a0)
+![css-3](https://github.com/user-attachments/assets/4abe932f-2f6a-4604-8106-5df189793f88)
 
   ### 🧠 Programming Language
-  ![javascript](https://github.com/user-attachments/assets/6d7c8b42-49cf-4815-831e-1429ef72adab)
-  ![typescript](https://github.com/user-attachments/assets/579bb659-89de-4f8c-b3ca-32f09647e426)
+  ![js](https://github.com/user-attachments/assets/ea400fa2-283b-4639-a62a-f51ddaf16a5c)
+![typescript](https://github.com/user-attachments/assets/f237c9c0-cd74-4bed-a2ae-dc356e3f62c8)
+
 
   - ### 🖼️ Frameworks
 
   - #### CSS
-    ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![tailwind](https://github.com/user-attachments/assets/aae19cb7-3130-48d7-924f-9c4fc6781fc2)
+
     
   - #### JavaScript
-![react](https://github.com/user-attachments/assets/cd302295-2583-4f61-a0a0-427189937d09)
+![structure](https://github.com/user-attachments/assets/0630a69a-dddb-445a-abb9-f669427bcf36)
 
 
 - ### 🛠️ Tools
