@@ -24,6 +24,17 @@
 
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
 
+  ### 🧠 Programming Language
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  - ### 🖼️ Frameworks
+
+  - #### CSS
+    ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+    
+  - #### JavaScript
+    ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+
+
 - ### 🛠️ Tools
 
   - #### 💻 IDE/Code Editors
