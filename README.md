@@ -17,7 +17,7 @@
 ## 🧳 Tech Stack
 
 - ### Markup Language
-![html](https://iconscout.com/free-icon/html-58)
+![html-5](https://github.com/user-attachments/assets/6b9dce13-91e5-4288-a966-d415ad5c8991)
 
 - ### 🎨 Styling
 ![css](https://iconscout.com/free-icon/css-124)
