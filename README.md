@@ -21,6 +21,7 @@
 
 - ### 🎨 Styling
 ![css](https://iconscout.com/free-icon/css-124)
+![html-5 (1)](https://github.com/user-attachments/assets/ca811b23-a8f1-4ecc-9db4-47017fba11a0)
 
   ### 🧠 Programming Language
   ![javascript](https://github.com/user-attachments/assets/6d7c8b42-49cf-4815-831e-1429ef72adab)
