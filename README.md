@@ -13,6 +13,9 @@
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
+<a href="https://github.com/AbdelrahmanELsokary/Certifications/blob/main/CV">**My CV**</a>
+
+
 ## 🧳 Tech Stack
 
 - ### Markup Language
@@ -57,6 +60,10 @@
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+## Certificates
+
+<a href="https://github.com/AbdelrahmanELsokary/Certifications">**My certifications**</a>
+
 ## 💼 Work and Jobs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
@@ -77,10 +84,6 @@
 ![Top Language by Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AbdelrahmanElsokary&theme=dark) <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanElsokary&theme=dark&show_icons=true&hide_border=true)
 
-
-## Certificates
-
-<a href="https://github.com/AbdelrahmanELsokary/Certifications">**My certifications**</a>
 
 
 # Thank You for visiting my Readme!
