@@ -13,7 +13,7 @@
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### 📜 My CV
-<a href="https://github.com/AbdelrahmanELsokary/Certifications/blob/main/CV/Last_CV.pdf">**Show My CV**</a>
+<a href="https://github.com/AbdelrahmanELsokary/Certifications/blob/main/CV/CV_Abdulrahman.pdf">**Show My CV**</a>
 
 
 ## 🧳 Tech Stack
