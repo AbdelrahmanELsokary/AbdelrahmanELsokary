@@ -62,10 +62,11 @@
 
 <a href="https://github.com/AbdelrahmanELsokary/Certifications">**My certifications**</a>
 
+<a href="https://github.com/AbdelrahmanELsokary/Certifications/blob/main/CV/Abdelrahman_ATS.pdf">**My CV**</a>
+
 ## 💼 Work and Jobs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/abdulrahman-elsokary-29036930a/)
-
 
 
 ## 🏆 GitHub Trophies
